@@ -1,5 +1,6 @@
 """
 This program will reverse any type of number you passed!
+Use reverse_num() function
 """
 
 def reverse_num(number):
